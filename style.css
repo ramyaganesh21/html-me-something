@@ -1,0 +1,50 @@
+body {
+ font-family: Georgia ;
+ height: 100%;
+ margin: 0;
+ text-align:center;
+ width: 100%;
+ background-image:url('images/2094745.jpg');
+ background-position:cover;
+ 
+}
+h1{
+    font-size:45px;
+    color: royalblue;
+    text-align: center;
+    border-block-end-style: double;
+    border-block-start-style:double;
+}
+
+h2{
+    font-size:32px;
+    color: rgb(95, 30, 95);
+    text-align: center;
+}
+.h5{
+    text-align: right;
+    font-size:20px;
+    color:black;
+}
+
+.article{
+   
+    
+    padding:250 px 0;
+    margin: 30px;
+    font-family: 'Trebuchet MS';
+    color: rgb(122, 57, 57);
+    font-size: 32px;
+   
+}
+.dog{
+    color:black;
+    font-size:32px;
+}
+.main{
+    font-size: 32px;
+}
+ #footer {
+    font-size: 14px;
+
+}
